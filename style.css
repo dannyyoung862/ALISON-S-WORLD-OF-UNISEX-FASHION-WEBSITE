@@ -1,0 +1,150 @@
+body {
+    font-size: 15pt;
+    margin: 13px;
+    background-color: darkgoldenrod;
+}
+img {
+    height: 300px;
+}
+h {
+    font-size: 40px;
+}
+.container {
+    height: 300px;
+    width: 685px;
+    background-color: black;
+    margin: 272px;
+    margin-top: -345px;
+}
+h1 {
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: 60px;
+    font-family: serif;
+}
+marquee {
+    color: darkgoldenrod;
+}
+p {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: serif;
+    margin-top: -250px;
+}
+p1 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: serif;
+}
+p2 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: serif;
+}
+p3 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: serif;
+}
+p4 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: serif;
+}
+.box{
+    background-color: black;
+    height: 300px;
+    width: 500px;
+    margin-left: 425px;
+    margin-top: -305px;
+    border: 15px solid white;
+    border-radius: 30px;
+}
+.box1{
+    background-color: black;
+    height: 1050px;
+    width: 915px;
+    margin-top: -130px;
+    border-radius: 70px;
+    border: 20px solid white;
+}
+.box2 {
+    background-color: black;
+    height: 1600px;
+    width: 915px;
+    margin-top: -130px;
+    border-radius: 70px;
+    border: 20px solid white;
+}
+h3{
+    font-size: 140px;
+    font-weight: bolder;
+    font-family: serif;
+    margin-top: 25px;
+}
+.small {
+    height: 8px;
+    background-color: white;
+}
+.big {
+    height: 8500px;
+    background-color: black;
+    margin-left: -10px;
+    width: 977px;
+}
+p5{
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: serif;
+    margin: 15px 10px 10px 10px;
+}
+p6 {
+    color: white;
+    font-size: 40px;
+    margin: 30px;
+}
+p7{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px;
+}
+button {
+    background-color: darkgoldenrod;
+    margin: 25px;
+    border-radius: 20px;
+}
+.Playstore img {
+    height: 100px;
+    background-color: darkred;
+    width: 370px;
+    margin: 25px;
+    border-radius: 20px;
+}
+.Appstore img {
+    height: 100px;
+    background-color: darkred;
+    width: 370px;
+    margin: 25px;
+    border-radius: 20px;
+}
+.Windows img {
+    height: 100px;
+    background-color: darkred;
+    width: 370px;
+    margin: 25px;
+    border-radius: 20px;
+}
+.Facebook img {
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    border-radius: 50%;
+}
+.WhatsApp img {
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    border-radius: 50%;
+}
